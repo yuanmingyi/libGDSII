@@ -20,12 +20,13 @@
  * Homer Reid   11/2017
  */
 
+#include "stdafx.h"
 #include "libGDSII.h"
 
 #include <string.h>
 #include <stdarg.h>
 #include <time.h>
-#include <sys/time.h>
+//#include <sys/time.h>
 #include <sys/stat.h>
 #include <sys/types.h>
 

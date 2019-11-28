@@ -20,6 +20,7 @@
  * Homer Reid   12/2017-4/2018
  */
 
+#include "stdafx.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

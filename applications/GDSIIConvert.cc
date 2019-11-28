@@ -21,11 +21,13 @@
  * Homer Reid       --  and convert to various output formats
  */
 
+#include "stdafx.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <stdarg.h>
-#include <unistd.h>
+//#include <unistd.h>
 #include <math.h>
 
 #include "libGDSII.h"
